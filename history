@@ -1,0 +1,16 @@
+  689  cd clarusway
+  690  ls
+  691  git branch -a
+  692  cd ..
+  693  mkdir sonders
+  694  cd sonders
+  695  git init
+  696  ls -al
+  697  touch .gitignore
+  698  ls -al
+  699  touch README.md
+  700  ls -al
+  701  touch gitlearning.txt
+  702  ls -al
+  703  nano gitlearning.txt
+  704  cat gitlearning.txt
